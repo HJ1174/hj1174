@@ -2,14 +2,21 @@
 
 **HJ1174/hj1174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+私のついて/About me
+- ex-home tutor
+- know C++ and python (basic level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning how to be a software quality assurance engineer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Current lifestyle
 
+- 🌱 I’m currently learning 
+1. how to be a software quality assurance engineer
+2. how to read/write javascript (freecodecamp)
+
+- 🤔 I’m looking for help with
+1. how to automate testing of mobile apps (IOS/Android)
+2. how to run automated testing of mobile apps on mac
+
+- 📫 How to reach me: To be added later
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: To be added later
